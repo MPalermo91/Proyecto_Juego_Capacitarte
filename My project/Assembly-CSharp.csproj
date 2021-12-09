@@ -63,16 +63,16 @@
     <Compile Include="Assets\NewAssetsUtilities\Mini First Person Controller\Scripts\FirstPersonLook.cs" />
     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\NewAssetsUtilities\FX JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
-    <Compile Include="Assets\Bala.cs" />
+    <Compile Include="Assets\Scripts\Disparo.cs" />
     <Compile Include="Assets\NewAssetsUtilities\FX JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
     <Compile Include="Assets\NewAssetsUtilities\FX JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
     <Compile Include="Assets\NewAssetsUtilities\FX JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" />
     <Compile Include="Assets\NewAssetsUtilities\Mini First Person Controller\Scripts\Components\Crouch.cs" />
     <Compile Include="Assets\NewAssetsUtilities\FX JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
+    <Compile Include="Assets\Scripts\Enemy_Controller.cs" />
     <Compile Include="Assets\NewAssetsUtilities\FX JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
     <Compile Include="Assets\NewAssetsUtilities\FX JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
     <Compile Include="Assets\NewAssetsUtilities\Mini First Person Controller\Scripts\Components\GroundCheck.cs" />
-    <Compile Include="Assets\Enemy_Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
